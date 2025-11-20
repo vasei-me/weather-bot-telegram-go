@@ -51,3 +51,7 @@ go mod tidy
 
 #Run the Bot
 go run main.go
+
+```
+
+After running the program, you can work with the Telegram bot @SimpleMyWeatherBot
