@@ -1,1 +1,4 @@
-"*.exe" 
+echo .env > .gitignore
+echo *.exe >> .gitignore
+echo *.log >> .gitignore
+echo /tmp/ >> .gitignore
