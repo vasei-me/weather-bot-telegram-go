@@ -54,10 +54,11 @@ go run main.go
 
 ```
 
-This is a solution for the Weather API Wrapper Service project on roadmap.sh.
-
-**Project URL:** https://roadmap.sh/projects/weather-api-wrapper-service
-
 ## Usage
 
 After running the program, you can interact with the Telegram bot [@SimpleMyWeatherBot](https://t.me/SimpleMyWeatherBot) to get real-time weather information.
+
+
+This is a solution for the Weather API Wrapper Service project on roadmap.sh.
+
+**Project URL:** https://roadmap.sh/projects/weather-api-wrapper-service
